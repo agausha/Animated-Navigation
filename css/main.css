@@ -61,6 +61,12 @@ section#contact {
   background: hsl(128deg, 50%, 35%);
 }
 
+@media (max-width: 600px) {
+  section#home a {
+    top: 1rem;
+    left: 1rem;
+  }
+}
 .overlay {
   position: fixed;
   top: 0;

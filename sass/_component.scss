@@ -45,3 +45,12 @@ section#projects {
 section#contact {
   background: $color-primary-nav-5;
 }
+
+/////////////////////////////////////////
+// MEDIA QUERY: LARG SMARTPHONE (VERTICAL)
+@media (max-width: 600px) {
+  section#home a {
+    top: 1rem;
+    left: 1rem;
+  }
+}
