@@ -95,4 +95,7 @@ nav ul li:nth-of-type(5) {
   position: fixed;
   top: 1rem;
   right: 2rem;
+  display: inline;
+  z-index: 10;
+  cursor: pointer;
 }/*# sourceMappingURL=main.css.map */

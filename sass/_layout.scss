@@ -94,4 +94,7 @@ nav ul {
   position: fixed;
   top: 1rem;
   right: 2rem;
+  display: inline;
+  z-index: 10;
+  cursor: pointer;
 }
