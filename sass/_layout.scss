@@ -81,5 +81,9 @@ nav ul {
     &:nth-of-type(4) {
       background-color: $color-primary-nav-4;
     }
+
+    &:nth-of-type(5) {
+      background-color: $color-primary-nav-5;
+    }
   }
 }
