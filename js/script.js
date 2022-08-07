@@ -19,5 +19,8 @@ function toggleNav() {
   menuBars.classList.toggle('change');
   // Toggle: Menu Active
   overlay.classList.toggle('overlay-active');
-  if (overlay.classList.contains('overlay-active')) {}
+  if (overlay.classList.contains('overlay-active')) {
+    // Animate In - Overlay
+    overlay.classList.replace('overlay-slide-left', 'overlay-slide-right');
+  }
 }
