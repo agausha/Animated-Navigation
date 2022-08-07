@@ -27,5 +27,7 @@ function toggleNav() {
   } else {
     // Animate Out - Overlay
     overlay.classList.replace('overlay-slide-right', 'overlay-slide-left');
+      // Animate Out - Nav Items
+      navAnimation('in', 'out');
   }
 }
