@@ -57,6 +57,10 @@ section#projects {
   background: hsl(184deg, 49%, 27%);
 }
 
+section#contact {
+  background: hsl(128deg, 50%, 35%);
+}
+
 .overlay {
   position: fixed;
   top: 0;
