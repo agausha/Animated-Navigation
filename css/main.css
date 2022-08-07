@@ -45,6 +45,10 @@ section#home a {
   border-bottom: 1px solid hsl(0deg, 0%, 100%);
 }
 
+section#about {
+  background: hsl(3deg, 50%, 45%);
+}
+
 .overlay {
   position: fixed;
   top: 0;
