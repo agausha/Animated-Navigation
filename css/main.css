@@ -93,4 +93,6 @@ nav ul li:nth-of-type(5) {
 
 .menu-bars {
   position: fixed;
+  top: 1rem;
+  right: 2rem;
 }/*# sourceMappingURL=main.css.map */
