@@ -20,3 +20,7 @@ $color-primary-overlay-bg: hsla(0, 0%, 0%, 0.7);
     padding: 0;
     border: 0;
 }
+
+html {
+  box-sizing: border-box;
+}
