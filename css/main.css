@@ -23,6 +23,9 @@ section {
   display: flex;
   justify-content: center;
   align-items: center;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  color: hsl(0deg, 0%, 100%);
 }
 
 .overlay {
