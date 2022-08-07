@@ -41,4 +41,9 @@ nav ul {
   height: 100vh;
   margin: 0;
   padding: 0;
+}
+
+nav ul {
+  display: flex;
+  flex-direction: column;
 }/*# sourceMappingURL=main.css.map */
