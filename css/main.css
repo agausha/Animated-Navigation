@@ -72,4 +72,6 @@ nav li a:hover {
 
 nav li a::before {
   content: "";
+  width: 25vw;
+  height: 3px;
 }/*# sourceMappingURL=main.css.map */
