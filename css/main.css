@@ -36,6 +36,8 @@ section#home {
 section#home a {
   position: absolute;
   z-index: 2;
+  top: 1.5rem;
+  left: 1.5rem;
 }
 
 .overlay {
