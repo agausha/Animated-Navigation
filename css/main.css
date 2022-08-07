@@ -106,4 +106,5 @@ nav ul li:nth-of-type(5) {
 .bar3 {
   width: 35px;
   height: 2px;
+  background: hsl(0deg, 0%, 100%);
 }/*# sourceMappingURL=main.css.map */
