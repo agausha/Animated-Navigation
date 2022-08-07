@@ -74,4 +74,5 @@ nav li a::before {
   content: "";
   width: 25vw;
   height: 3px;
+  background: hsl(0deg, 0%, 100%);
 }/*# sourceMappingURL=main.css.map */
