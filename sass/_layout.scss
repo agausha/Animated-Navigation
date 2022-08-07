@@ -65,5 +65,10 @@ nav ul {
     a:hover::before {
       opacity: 1;
     }
+
+    &:nth-of-type(1) {
+      background-color: $color-primary-nav-1;
+    }
+
   }
 }
