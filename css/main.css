@@ -77,4 +77,6 @@ nav li a::before {
   background: hsl(0deg, 0%, 100%);
   position: absolute;
   top: 47.5%;
+  left: 0;
+  opacity: 0;
 }/*# sourceMappingURL=main.css.map */
