@@ -1,4 +1,9 @@
 @import url("https://fonts.googleapis.com/css2?family=Nunito&display=swap");
+.slide-in-1 {
+  -webkit-animation: slide-in 0.4s linear 0.2s both;
+          animation: slide-in 0.4s linear 0.2s both;
+}
+
 *,
 *::before,
 *::after {
