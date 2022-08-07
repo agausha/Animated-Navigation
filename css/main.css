@@ -46,6 +46,11 @@
           animation: slide-out 0.3s linear 0.5s both;
 }
 
+.slide-out-2 {
+  -webkit-animation: slide-out 0.3s linear 0.4s both;
+          animation: slide-out 0.3s linear 0.4s both;
+}
+
 *,
 *::before,
 *::after {
