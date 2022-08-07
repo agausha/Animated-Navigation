@@ -42,4 +42,7 @@ nav ul li {
   overflow: hidden;
 }
 
-nav li a {}
+nav li a {
+  position: relative;
+  top: 45%;
+}

@@ -53,4 +53,9 @@ nav ul {
 nav ul li {
   height: 20%;
   overflow: hidden;
+}
+
+nav li a {
+  position: relative;
+  top: 45%;
 }/*# sourceMappingURL=main.css.map */
