@@ -24,6 +24,23 @@
           animation: slide-in 0.4s linear 1s both;
 }
 
+@-webkit-keyframes slide-in {
+  from {
+    transform: translateX(-100%);
+  }
+  to {
+    transform: translateX(0);
+  }
+}
+
+@keyframes slide-in {
+  from {
+    transform: translateX(-100%);
+  }
+  to {
+    transform: translateX(0);
+  }
+}
 *,
 *::before,
 *::after {
