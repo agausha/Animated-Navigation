@@ -13,3 +13,5 @@ function navAnimation(direction1, direction2) {
     nav.classList.replace(`slide-${direction1}-${i+1}`, `${direction2}-${i+1}`);
   });
 }
+
+function toggleNav() {}
