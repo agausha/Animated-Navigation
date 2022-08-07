@@ -46,4 +46,6 @@ nav ul {
 nav ul {
   display: flex;
   flex-direction: column;
+  justify-content: stretch;
+  list-style: none;
 }/*# sourceMappingURL=main.css.map */
