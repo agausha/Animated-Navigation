@@ -17,5 +17,8 @@ section#home {
   background-size: cover;
   background-position: center center;
 
-  a {}
+  a {
+    position: absolute;
+    z-index: 2;
+  }
 }

@@ -33,6 +33,11 @@ section#home {
   background-size: cover;
   background-position: center center;
 }
+section#home a {
+  position: absolute;
+  z-index: 2;
+}
+
 .overlay {
   position: fixed;
   top: 0;
