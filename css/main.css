@@ -61,4 +61,7 @@ nav li a {
   color: hsl(0deg, 0%, 100%);
   text-transform: uppercase;
   letter-spacing: 4px;
+  text-decoration: none;
+  display: block;
+  text-align: center;
 }/*# sourceMappingURL=main.css.map */
