@@ -121,4 +121,11 @@ nav ul li:nth-of-type(5) {
 
 .change .bar3 {
   transform: rotate(45deg) translate(-6px, -8px);
+}
+
+@media (max-width: 600px) {
+  .menu-bars {
+    top: 0.5rem;
+    right: 1rem;
+  }
 }/*# sourceMappingURL=main.css.map */

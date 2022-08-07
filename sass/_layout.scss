@@ -124,3 +124,12 @@ nav ul {
 .change .bar3 {
   transform: rotate(45deg) translate(-6px, -8px);
 }
+
+/////////////////////////////////////////
+// MEDIA QUERY: LARG SMARTPHONE (VERTICAL)
+@media (max-width: 600px) {
+  .menu-bars {
+    top: 0.5rem;
+    right: 1rem;
+  }
+}
