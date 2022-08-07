@@ -14,4 +14,7 @@ function navAnimation(direction1, direction2) {
   });
 }
 
-function toggleNav() {}
+function toggleNav() {
+  // Toggle: Menu Bars Open/Close
+  menuBars.classList.toggle('change');
+}
