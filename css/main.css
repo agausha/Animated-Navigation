@@ -79,4 +79,8 @@ nav li a::before {
   top: 47.5%;
   left: 0;
   opacity: 0;
+}
+
+nav li a:hover::before {
+  opacity: 1;
 }/*# sourceMappingURL=main.css.map */

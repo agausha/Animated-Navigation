@@ -68,4 +68,6 @@ nav li a::before {
   opacity: 0;
 }
 
-nav li a:hover::before {}
+nav li a:hover::before {
+  opacity: 1;
+}
