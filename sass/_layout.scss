@@ -17,4 +17,7 @@
   transform: translate(0);
 }
 
-.overlay-slide-left {}
+.overlay-slide-left {
+  transition: all 0.8s ease-in-out;
+  transform: translateX(-100vw);
+}
