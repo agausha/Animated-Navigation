@@ -38,6 +38,8 @@ section#home a {
   z-index: 2;
   top: 1.5rem;
   left: 1.5rem;
+  text-decoration: none;
+  font-size: 0.8rem;
 }
 
 .overlay {
