@@ -29,3 +29,9 @@
     transform: translateX(0);
   }
 }
+
+/////////////////////////////////////////
+// SLIDE OUT ANIMATION WITH DELAY FOR EACH NAV ITEM
+.slide-out-1 {
+  animation: slide-out 0.3s linear 0.5s both;
+}

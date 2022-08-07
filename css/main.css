@@ -41,6 +41,11 @@
     transform: translateX(0);
   }
 }
+.slide-out-1 {
+  -webkit-animation: slide-out 0.3s linear 0.5s both;
+          animation: slide-out 0.3s linear 0.5s both;
+}
+
 *,
 *::before,
 *::after {
