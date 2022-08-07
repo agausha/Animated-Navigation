@@ -66,6 +66,23 @@
           animation: slide-out 0.3s linear 0.1s both;
 }
 
+@-webkit-keyframes slide-out {
+  from {
+    transform: translateX(0);
+  }
+  to {
+    transform: translateX(-100%);
+  }
+}
+
+@keyframes slide-out {
+  from {
+    transform: translateX(0);
+  }
+  to {
+    transform: translateX(-100%);
+  }
+}
 *,
 *::before,
 *::after {
