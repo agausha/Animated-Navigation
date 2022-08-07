@@ -10,6 +10,7 @@
   height: 100vh;
   background: $color-primary-overlay-bg;
   transform: translateX(-100vw);
+  z-index: 10;
 }
 
 .overlay-slide-right {

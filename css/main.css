@@ -24,6 +24,7 @@ body {
   height: 100vh;
   background: hsla(0deg, 0%, 0%, 0.7);
   transform: translateX(-100vw);
+  z-index: 10;
 }
 
 .overlay-slide-right {
