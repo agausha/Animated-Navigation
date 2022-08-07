@@ -119,3 +119,8 @@ nav ul {
 .change .bar2 {
   opacity: 0;
 }
+
+// ROTATE LAST BAR
+.change .bar3 {
+  transform: rotate(45deg) translate(-6px, -8px);
+}
