@@ -14,6 +14,11 @@
           animation: slide-in 0.4s linear 0.6s both;
 }
 
+.slide-in-4 {
+  -webkit-animation: slide-in 0.4s linear 0.8s both;
+          animation: slide-in 0.4s linear 0.8s both;
+}
+
 *,
 *::before,
 *::after {
