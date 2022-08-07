@@ -89,4 +89,8 @@ nav ul li:nth-of-type(4) {
 }
 nav ul li:nth-of-type(5) {
   background-color: hsl(128deg, 50%, 35%);
+}
+
+.menu-bars {
+  position: fixed;
 }/*# sourceMappingURL=main.css.map */
