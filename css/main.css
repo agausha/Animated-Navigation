@@ -49,6 +49,10 @@ section#about {
   background: hsl(3deg, 50%, 45%);
 }
 
+section#skills {
+  background: hsl(28deg, 50%, 45%);
+}
+
 .overlay {
   position: fixed;
   top: 0;
