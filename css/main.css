@@ -113,4 +113,8 @@ nav ul li:nth-of-type(5) {
 
 .change .bar1 {
   transform: rotate(-45deg) translate(-7px, 8px);
+}
+
+.change .bar2 {
+  opacity: 0;
 }/*# sourceMappingURL=main.css.map */

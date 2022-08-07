@@ -114,3 +114,8 @@ nav ul {
 .change .bar1 {
   transform: rotate(-45deg) translate(-7px, 8px);
 }
+
+// FADE OUT THE SECOND BAR
+.change .bar2 {
+  opacity: 0;
+}
