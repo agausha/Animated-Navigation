@@ -48,4 +48,8 @@ nav ul {
   flex-direction: column;
   justify-content: stretch;
   list-style: none;
+}
+
+nav ul li {
+  height: 20%;
 }/*# sourceMappingURL=main.css.map */
