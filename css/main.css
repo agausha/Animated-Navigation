@@ -24,4 +24,9 @@ body {
   height: 100vh;
   background: hsla(0deg, 0%, 0%, 0.7);
   transform: translateX(-100vw);
+}
+
+.overlay-slide-right {
+  transition: all 0.4s ease-in-out;
+  transform: translate(0);
 }/*# sourceMappingURL=main.css.map */
